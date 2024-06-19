@@ -8,7 +8,7 @@ const Banner = () => {
 return (
 
 <div className="bg-secondary py-8">
-<div className='grid grid-cols-12 container text-white'>
+<div className='grid md:grid-cols-12 container text-white'>
 <div className='col-span-6 flex items-center h-[100%] '>
 <div className=''>
 <p>-- Hello,</p>
