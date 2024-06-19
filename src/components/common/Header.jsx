@@ -4,10 +4,10 @@ const Header = () => {
   return (
   <div className='bg-secondary py-8 text-white'>
   <div className='grid grid-cols-12 container'>
-  <div className='col-span-2'>
+  <div className='md:col-span-2 col-span-6'>
   <div className='border-b-2 inline border-primary text-xl pb-1 font-bold'>🧑🏻 Lalit Gupta</div>
   </div>
-  <div className='col-span-8'>
+  <div className='md:col-span-8 col-span-6'>
   <ul className='flex gap-12 items-center h-[100%] justify-center'>
   <li className='menu-link'>About</li>
   <li className='menu-link'>Workflow</li>
