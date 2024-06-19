@@ -32,8 +32,8 @@ let serviceData = [
 
   return (
     <div className='bg-primary py-12'>
-        <div className='ml-16 bg-secondary rounded-tl-xl'>
-            <div className='p-16'>
+        <div className='md:ml-16 bg-secondary rounded-tl-xl'>
+            <div className='md:p-16'>
 
               <div className='grid md:grid-cols-12 gap-20'>
                {serviceData.map((e,i)=>(

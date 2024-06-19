@@ -22,7 +22,7 @@ var whyData = [
 const Whychoose = () => {
   return (
     <div className='bg-primary rounded-xl py-12'>
-        <div className='grid grid-cols-12 container gap-12'>
+        <div className='grid md:grid-cols-12 container gap-12'>
       
       {whyData.map((e, i) => (
           <div key={e.id} className='col-span-4 border-2 border-white p-4 rounded-lg text-white bg-secondary flex flex-col gap-4'>

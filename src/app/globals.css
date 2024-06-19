@@ -39,3 +39,12 @@ margin: auto;
     position:absolute;
     transform:rotate(115deg)
 }
+
+.mob-menu
+{
+    position: absolute;
+    background: red;
+    width: 100%;
+    color: white;
+    top: 50px;
+}

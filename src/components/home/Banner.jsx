@@ -18,8 +18,8 @@ return (
 </div>
 <div className='col-span-6'>
 <div className=''>
-<div className='bg-primary/30 rounded-full  banner-img w-[500px] p-12 pb-0  flex justify-center'>
-<img src='/images/lalit-gupta.png' className='rounded-full w-[400px]' />
+<div className='bg-primary/30 rounded-full banner-img md:w-[500px] p-12 pb-0  flex justify-center'>
+<img src='/images/lalit-gupta.png' className='rounded-full md:w-[400px]' />
 </div>
 </div>
 </div>
