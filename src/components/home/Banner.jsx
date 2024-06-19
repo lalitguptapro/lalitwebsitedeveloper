@@ -19,7 +19,7 @@ return (
 <div className='col-span-6'>
 <div className=''>
 <div className='bg-primary/30 rounded-full  banner-img w-[500px] p-12 pb-0  flex justify-center'>
-<image src='/images/lalit-gupta.png' className='rounded-full w-[400px]' />
+<img src='/images/lalit-gupta.png' className='rounded-full w-[400px]' />
 </div>
 </div>
 </div>
