@@ -37,7 +37,7 @@ let serviceData = [
 
               <div className='grid grid-cols-12 gap-20'>
                {serviceData.map((e,i)=>(
-                 <div className='col-span-6'>
+                 <div className='col-span-6' key={i}>
                  <div className='border-primary rounded-md bg-white border-4 p-12 flex gap-8 justify-center'>
                    <div className='border-r-4 border-primary pr-8'>{e.icon}</div>
                    <div className=''>

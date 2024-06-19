@@ -10,7 +10,7 @@ const Formpopup = () => {
   return (
     <div>
 
-        <button onClick={()=> setIsOpen(true)} className='bg-primary rounded-full p-16 border-2 border-transparent hover:border-2 hover:border-primary hover:bg-secondary'>Let's Talk </button>
+        <button onClick={()=> setIsOpen(true)} className='bg-primary rounded-full p-16 border-2 border-transparent hover:border-2 hover:border-primary hover:bg-secondary'>Let&apos;s Talk </button>
         <Dialog open={isOpen} onClose={() => setIsOpen(false)} className="relative z-50">
         <div className="fixed inset-0 flex w-screen items-center justify-center p-4">
         <DialogPanel className="max-w-lg space-y-4 border bg-white p-4 rounded-xl">

@@ -17,7 +17,7 @@ const Header = () => {
   </div>
 
   <div className='col-span-2'>
-    <button className='bg-primary rounded-full px-8 py-2 border-2 border-transparent hover:border-2 hover:border-primary hover:bg-secondary'>Let's Talk</button>
+    <button className='bg-primary rounded-full px-8 py-2 border-2 border-transparent hover:border-2 hover:border-primary hover:bg-secondary'>Let&apos;s Talk</button>
     </div>
   </div>
 
